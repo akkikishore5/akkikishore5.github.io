@@ -1,4 +1,4 @@
-##The Radio Wave Article
+## The Radio Wave Article
 
 
 The 1920s was a period of significant growth and development in the field of radio communication, with advances in technology and increasing interest in amateur radio.
