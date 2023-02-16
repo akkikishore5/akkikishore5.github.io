@@ -1,3 +1,4 @@
+#The Radio Wave Article
 The 1920s was a period of significant growth and development in the field of radio communication, with advances in technology and increasing interest in amateur radio.
 
 At the time, the US government was responsible for regulating the use of the radio spectrum, and different frequency bands were allocated to different users. In 1922, the Department of Commerce judged short waves (frequencies under 200 meters) to be worthless for long-distance communication and allocated them to radio amateurs.
